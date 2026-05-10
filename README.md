@@ -222,19 +222,27 @@ Returns:
 
 # Screenshots
 
-Add screenshots inside:
+## Dashboard
 
-```txt
-screenshots/
-```
+![Dashboard](screenshots/dashboard.png)
 
-Example screenshots:
+---
 
-* Dashboard
-* Reviews page
-* Analytics page
-* Pie chart
-* Filters
+## Reviews Page
+
+![Reviews](screenshots/reviews.png)
+
+---
+
+## Analytics
+
+![Analytics](screenshots/analytics.png)
+
+---
+
+## Sentiment Pie Chart
+
+![Pie Chart](screenshots/piechart.png)
 
 ---
 
